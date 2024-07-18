@@ -158,3 +158,4 @@ One or two paragraphs providing an overview of our project
 
 
 ## Acknowledgements
+[Edgar Kimbugwe](https://github.com/Edgarkimbugwe) - Documentation <br>
